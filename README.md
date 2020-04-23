@@ -16,9 +16,11 @@ const char * mqtt_server = "your_mqtt_broker";
 
 ### Características
 - [ ] Start in Access Point mode to configure your WiFi credentials.
-- [x] Connect to MQTT broker.
-- [x] Receive defined colors through MQTT and set it to RGB ring.
-- [x] Receive RGB parameters colors through and set it to RGB ring.
+- [x] Conectar al broker de MQTT.
+- [x] Recibir colores predefinidos a través de MQTT y setearlo en el RGB ring.
+- [x] Recibir colores en formato RGB  y setearlos en el RGB ring.
+- [ ] Encendido automático con sensor de luminosidad.
+- [ ] Encendido con horario usando servidor NTP.
 
 
 ## Librerías
