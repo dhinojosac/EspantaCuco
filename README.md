@@ -1,8 +1,8 @@
 # Espanta Cuco
 Firmware para Wemos NodeMcu v3 para controlar RGB neopixel ring usando WiFI vía MQTT. Aplicación para lampara de velador.
 
-![lamp](images/blue_light.png =250x250)
-<img src="https://raw.githubusercontent.com/dhinojosac/EspantaCuco/master/images/blue_light.png" width="100">
+
+<img src="https://raw.githubusercontent.com/dhinojosac/EspantaCuco/master/images/blue_light.png" width="250" alt="Lámpara con color azul" class="center">
 
 ### Instructiones
 Crear un archivo llamado *credentials.h* y agregar dentro:
